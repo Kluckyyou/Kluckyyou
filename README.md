@@ -12,6 +12,8 @@ I'm Yiyang(Kevin) You!
 - ENT200H1: Innovation and Entrepreneurship
 - Job Hunting
 - Personal Website Deployment
+- Profile Update
+- G2 Exam Preparation
 
 <h2>👀 Stats</h2>
 
