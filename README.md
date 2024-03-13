@@ -11,8 +11,6 @@ I'm Yiyang(Kevin) You!
 - CSC309H1: Programing on Web
 - ENT200H1: Innovation and Entrepreneurship
 - MAT344H1: Introduction to Combinatorics
-- Personal Website Deployment
-- Profile Update
 - G2 Exam Preparation
 
 <h2>👀 Stats</h2>
