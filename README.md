@@ -13,16 +13,6 @@ I'm Yiyang(Kevin) You!
 - MAT344H1: Introduction to Combinatorics
 - G2 Exam Preparation
 
-<h2>👀 Stats</h2>
-
-<div>
-  
-  <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kluckyyou" alt="GitHub Stats" /> <br/><br/>
-  </p>
-</div>
-
 <h2> About Me⚡:</h2>
 
 I'm an Undergraduate Student living in Toronto, Canada. Outside Tech, I love watching movies, enjoying music, and exploring nature outdoors. If you are around GTA, drop an email, and let's catch up over Coffee!
