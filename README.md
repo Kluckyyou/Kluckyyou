@@ -4,15 +4,6 @@ I'm Yiyang(Kevin) You!
 - <i>Currently:</i> Undergraduate CS Student at University of Toronto 🍁. 
 - <i>Previously:</i> Research assistant with Professor Chi-Guhn Lee, volunteer web developer @Alpha Education, software developer @TDS News.
 
-<h2>💻 I'm currently working on</h2>
-
-- CSC320H1: Computer Vision
-- CSC384H1: Introduction to AI
-- CSC309H1: Programing on Web
-- ENT200H1: Innovation and Entrepreneurship
-- MAT344H1: Introduction to Combinatorics
-- G2 Exam Preparation
-
 <h2> About Me⚡:</h2>
 
 I'm an Undergraduate Student living in Toronto, Canada. Outside Tech, I love watching movies, enjoying music, and exploring nature outdoors. If you are around GTA, drop an email, and let's catch up over Coffee!
