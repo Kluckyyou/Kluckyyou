@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Yiyang(Kevin) You! 
-- <i>Currently:</i> Undergraduate CS Student at University of Toronto 🍁. Research Assistant @AI Physics and Safety Lab
+- <i>Currently:</i> Undergraduate CS Student at University of Toronto 🍁. Research Assistant @AI Physics and Safety Lab UofT
 - <i>Previously:</i> Research assistant with Professor Chi-Guhn Lee, volunteer web developer @Alpha Education, software developer @TDS News.
 
 <h2> About Me⚡:</h2>
