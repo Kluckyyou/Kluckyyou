@@ -10,7 +10,10 @@ I'm an Undergraduate Student living in Toronto, Canada. Outside Tech, I love wat
  
 - Check out my LinkedIn profile: [https://www.linkedin.com/in/yiyang-kevin-you/](https://www.linkedin.com/in/yiyang-kevin-you/)
 - Write to me: [kevin.you0726@gmail.com](mailto:kevin.you0726@gmail.com)
+- More About Me:[https://kluckyyou.github.io/kevinyou/](https://kluckyyou.github.io/kevinyou/)
 
 <h2>📫 How to reach me:</h2>
 
-<a href="mailto:kevin.you0726@gmail.com">![kevin.you0726@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/yiyang-kevin-you/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:kevin.you0726@gmail.com">![kevin.you0726@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/yiyang-kevin-you/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
