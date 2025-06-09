@@ -10,7 +10,7 @@ I'm an Undergraduate Student living in Toronto, Canada. Outside Tech, I love wat
  
 - Check out my LinkedIn profile: [https://www.linkedin.com/in/yiyang-kevin-you/](https://www.linkedin.com/in/yiyang-kevin-you/)
 - Write to me: [kevin.you0726@gmail.com](mailto:kevin.you0726@gmail.com)
-- More About Me:[https://kluckyyou.github.io/kevinyou/](https://kluckyyou.github.io/kevinyou/)
+- More About Me: [https://kluckyyou.github.io/kevinyou/](https://kluckyyou.github.io/kevinyou/)
 
 <h2>📫 How to reach me:</h2>
 
