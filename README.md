@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 I'm Yiyang(Kevin) You! 
-- <i>Currently:</i> Undergraduate CS Student at University of Toronto 🍁. Research Assistant @AI Physics and Safety Lab UofT
-- <i>Previously:</i> Research assistant with Professor Chi-Guhn Lee, volunteer web developer @Alpha Education, software developer @TDS News, Data Scientist Intern @Nestle.
+- <i>Currently:</i> Working with Youneefit's AI outfit generator.
+- <i>Previously:</i> Undergraduate CS Student at University of Toronto 🍁. Research Assistant @AI Physics and Safety Lab UofT. Research Assistant with Professor Chi-Guhn Lee. Web developer @Alpha Education. Software Developer @TDS News. Data Scientist Intern @Nestle.
 
-<h2> About Me⚡:</h2>
+<h2> A Bit About Me⚡:</h2>
 
-I'm an Undergraduate Student living in Toronto, Canada. Outside Tech, I love watching movies, enjoying music, and exploring nature outdoors. If you are around GTA, drop an email, and let's catch up over Coffee!
+I spent 8 years living in Toronto, Canada. I went to University of Toronto in 2021. Outside Tech, I love watching movies, enjoying music, and exploring nature outdoors. If you are around GTA, drop an email, and let's catch up over Coffee!
  
 - Check out my LinkedIn profile: [https://www.linkedin.com/in/yiyang-kevin-you/](https://www.linkedin.com/in/yiyang-kevin-you/)
 - Write to me: [kevin.you0726@gmail.com](mailto:kevin.you0726@gmail.com)
