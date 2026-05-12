@@ -6,7 +6,7 @@ I'm Yiyang(Kevin) You!
 
 <h2> A Bit About Me⚡:</h2>
 
-I was born and raised in Nanjing, China. I came to Canada @ the age 15, spent 8 years living in Toronto, Canada. I went to University of Toronto in 2021. Outside Tech, I love watching movies, enjoying music, and exploring nature outdoors. If you are around GTA, drop an email, and let's catch up over Coffee!
+I was born and raised in China, and moved to Canada when I was 15. I’ve spent the past 8 years in Toronto and started at the University of Toronto in 2021. Outside of tech, I enjoy movies, music, and spending time outdoors. If you’re in the GTA, feel free to reach out and grab a coffee sometime.
  
 - Check out my LinkedIn profile: [https://www.linkedin.com/in/yiyang-kevin-you/](https://www.linkedin.com/in/yiyang-kevin-you/)
 - Write to me: [kevin.you0726@gmail.com](mailto:kevin.you0726@gmail.com)
