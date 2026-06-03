@@ -2,7 +2,7 @@
 
 I'm Yiyang(Kevin) You! 
 - <i>Currently:</i> Working with Youneefit's AI outfit generator.
-- <i>Previously:</i> Undergraduate CS Student at University of Toronto 🍁. Research Assistant @AI Physics and Safety Lab UofT. Research Assistant with Professor Chi-Guhn Lee. Web developer @Alpha Education. Software Developer @TDS News. Data Scientist Intern @Nestle.
+- <i>Previously:</i> Undergraduate CS Student at University of Toronto 🍁. Research Assistant @AI Physics and Safety Lab UofT, supervised by Professor Kristen Menou. Research Assistant with Professor Chi-Guhn Lee. Web developer @Alpha Education. Software Developer @TDS News. Data Scientist Intern @Nestle.
 
 <h2> A Bit About Me⚡:</h2>
 
