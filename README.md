@@ -1,8 +1,6 @@
 ### Hi there 👋 I'm Kevin (Kev works too)
 
-I studied CS at the University of Toronto 🍁 and did research there with the AI Physics and Safety Lab (Prof. Kristen Menou) and with Prof. Chi-Guhn Lee. I've also worked as a web developer at Alpha Education, a software developer at TDS News, and a data scientist intern at Nestlé. Now working, and building small tools on the side: data pipelines, scrapers, and automation — mostly Python.
-
-Born and raised in China, moved to Canada at 15. Off the keyboard: movies, music, and the outdoors.
+I studied CS at the University of Toronto 🍁, where I was fortunate to help out as a research assistant with the AI Physics and Safety Lab (Prof. Kristen Menou) and with Prof. Chi-Guhn Lee. I've also had the chance to work as a web developer at Alpha Education, a software developer at TDS News, and a data scientist intern at Nestlé. Still learning every day — these days mostly by building small tools: data pipelines, scrapers, and automation, usually in Python.
 
 📫 [kevin.you0726@gmail.com](mailto:kevin.you0726@gmail.com)
 
