@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Kevin (Kev works too)
 
-I studied CS at the University of Toronto 🍁, where I was fortunate to help out as a research assistant with the AI Physics and Safety Lab (Prof. Kristen Menou) and with Prof. Chi-Guhn Lee. I've also had the chance to work as a web developer at Alpha Education, a software developer at TDS News, and a data scientist intern at Nestlé. Still learning every day — these days mostly by building small tools: data pipelines, scrapers, and automation, usually in Python.
+I studied CS at the University of Toronto 🍁, where I was fortunate to help out as a research assistant with the AI Physics and Safety Lab (Prof. Kristen Menou) and with Prof. Chi-Guhn Lee. I've also had the chance to work as a web developer at Alpha Education, a software developer at TDS News, and a data scientist intern at Nestlé. Still learning every day — these days mostly exploring AI agents, databases, RAG, LLM wikis, and other new things in that space.
 
 📫 [kevin.you0726@gmail.com](mailto:kevin.you0726@gmail.com)
 
