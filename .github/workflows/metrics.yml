@@ -9,7 +9,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: Kluckyyou/metrics@d49de4ddeb5c941fc3d7f25fe798fd36e4bf86f3
+      - uses: Kluckyyou/metrics@a0b5d4b53b6c4031a6a1d3e5a9ffe5bd7fa0cbf3
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
