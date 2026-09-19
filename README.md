@@ -5,3 +5,5 @@ I studied CS at the University of Toronto 🍁 and did research there with the A
 Born and raised in China, moved to Canada at 15. Off the keyboard: movies, music, and the outdoors.
 
 📫 [kevin.you0726@gmail.com](mailto:kevin.you0726@gmail.com)
+
+![Metrics](/github-metrics.svg)
