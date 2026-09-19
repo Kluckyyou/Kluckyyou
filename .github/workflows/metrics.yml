@@ -9,7 +9,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: Kluckyyou/metrics@d49de4ddeb5c941fc3d7f25fe798fd36e4bf86f3
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
@@ -17,6 +17,12 @@ jobs:
           template: classic
           base: header, activity, community, repositories
           config_timezone: Asia/Tokyo
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_days: 30
+          plugin_habits_facts: yes
+          plugin_habits_from: 1000
+          plugin_habits_trim: yes
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -28,7 +34,7 @@ jobs:
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 365
           plugin_languages_recent_load: 1000
-          plugin_languages_sections: most-used
+          plugin_languages_sections: most-used, recently-used
           plugin_languages_threshold: 0%
 
           plugin_lines: yes
