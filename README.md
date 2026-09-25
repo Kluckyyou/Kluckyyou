@@ -2,6 +2,6 @@
 
 I studied CS at the University of Toronto 🍁, where I was fortunate to help out as a research assistant with the AI Physics and Safety Lab (Prof. Kristen Menou) and with Prof. Chi-Guhn Lee. I've also had the chance to work as a web developer at Alpha Education, a software developer at TDS News, and a data scientist intern at Nestlé. Still learning every day — these days mostly tinkering with AI agents, RAG, MCP, and the database layer behind them.
 
-📫 [kevin.you0726@gmail.com](mailto:kevin.you0726@gmail.com)
+📫 [kevin.you0726@gmail.com](mailto:kevin.you0726@gmail.com) · 🌐 [kluckyyou.github.io/kevinyou](https://kluckyyou.github.io/kevinyou/)
 
 ![Metrics](/github-metrics.svg)
